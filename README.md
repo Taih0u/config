@@ -1,1 +1,1 @@
-vless://e690c81d-f211-4486-bab5-9fd23e106f21@185.246.191.30:443?security=reality&sni=github.com&fp=firefox&pbk=8xSUDSzziMA9QpP3Tht7Dy60A-WrqoIs8OedDBZlbQE&sid=0a531b21d8d3719b&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#CENTEK
+vvv
